@@ -1,12 +1,10 @@
 ﻿{
-    "compilerOptions": {
-        "declaration": true,
-        "experimentalDecorators": true,
-        "lib": [ "es2015", "dom" ],
-        "outDir": "lib",
-        "target": "es5"
-    },
-    "files": [
-        "src/angular-social-elements.module.ts"
-    ]
+  "compilerOptions": {
+    "declaration": true,
+    "experimentalDecorators": true,
+    "lib": ["es2015", "dom"],
+    "outDir": "lib",
+    "target": "es5"
+  },
+  "files": ["src/angular-social-elements.module.ts"]
 }
