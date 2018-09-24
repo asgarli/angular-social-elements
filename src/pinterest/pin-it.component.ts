@@ -2,7 +2,13 @@
 
 @Component({
   selector: 'ase-pin-it',
-  templateUrl: './pin-it.component.html'
+  template: `
+  <a
+    href="//www.pinterest.com/pin/create/button/?url={{url}}&media={{media}}&description={{description}}"
+    data-pin-do="buttonPin"
+    data-pin-config="beside">
+  </a>
+  `,
 })
 export class PinItComponent implements AfterViewInit {
   @Input() url = location.href;

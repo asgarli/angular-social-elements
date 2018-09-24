@@ -2,7 +2,14 @@
 
 @Component({
   selector: 'ase-tweet',
-  templateUrl: 'tweet.component.html',
+  template: `
+  <a
+    href="https://twitter.com/share"
+    [attr.data-text]="text"
+    [attr.data-url]="url"
+    class="twitter-share-button">
+  </a>
+  `,
 })
 export class TweetComponent implements AfterViewInit {
   @Input()

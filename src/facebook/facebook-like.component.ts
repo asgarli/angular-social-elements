@@ -2,7 +2,16 @@
 
 @Component({
   selector: 'ase-fb-like',
-  templateUrl: './facebook-like.component.ts',
+  template: `
+  <div
+    class="fb-like"
+    [attr.data-href]="url"
+    data-layout="button_count"
+    data-action="like"
+    data-show-faces="true"
+    data-share="true">
+  </div>
+  `,
 })
 export class FacebookLikeComponent implements AfterViewInit {
   @Input()
