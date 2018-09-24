@@ -1,5 +1,11 @@
-# jw-angular-social-buttons
+# Angular Social Elmeents Module
 
-Angular 2+ Social Sharing Buttons
+Angular 6 Social Elements.
 
-Demo and instructions available at http://jasonwatmore.com/post/2018/06/01/angular-2-social-sharing-buttons-for-facebook-google-plus-twitter-linkedin-and-pinterest
+Current elements:
+
+ - Facebook like button
+ - Tweet button
+ - Google Plus button
+ - LinkedIn share button
+ - Pinterest pin button
