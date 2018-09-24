@@ -1,4 +1,4 @@
-# Angular Social Elmeents Module
+# Angular Social Elements
 
 Angular 6 Social Elements.
 
