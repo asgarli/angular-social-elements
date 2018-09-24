@@ -1,25 +1,25 @@
 {
-    "name": "jw-angular-social-buttons",
-    "version": "0.0.1",
-    "homepage": "http://jasonwatmore.com/post/2018/06/01/angular-2-social-sharing-buttons-for-facebook-google-plus-twitter-linkedin-and-pinterest",
+    "name": "angular-social-elements",
+    "version": "0.0.1-alpha",
+    "homepage": "https://github.com/asgarli/angular-social-elements",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cornflourblue/jw-angular-social-buttons.git"
+        "url": "https://github.com/asgarli/angular-social-elements.git"
     },
     "scripts": {
         "build": "tsc"
     },
-    "main": "./lib/jw-angular-social-buttons.module.js",
-    "module": "./lib/jw-angular-social-buttons.module.js",
-    "types": "./lib/jw-angular-social-buttons.module.d.ts",
+    "main": "./lib/angular-social-elements.module.js",
+    "module": "./lib/angular-social-elements.module.js",
+    "types": "./lib/angular-social-elements.module.d.ts",
     "license": "MIT",
     "devDependencies": {
-        "@angular/common": "^5.2.10",
-        "@angular/compiler": "^5.2.10",
-        "@angular/core": "^5.2.10",
-        "@types/node": "^9.6.6",
-        "rxjs": "^5.5.10",
-        "typescript": "^2.8.3",
+        "@angular/common": "^6.1.8",
+        "@angular/compiler": "^6.1.8",
+        "@angular/core": "^6.1.8",
+        "@types/node": "^10.10.3",
+        "rxjs": "^6.3.2",
+        "typescript": "^3.0.3",
         "zone.js": "^0.8.26"
     }
 }
