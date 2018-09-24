@@ -7,6 +7,6 @@
         "target": "es5"
     },
     "files": [
-        "src/jw-angular-social-buttons.module.ts"
+        "src/angular-social-elements.module.ts"
     ]
 }
