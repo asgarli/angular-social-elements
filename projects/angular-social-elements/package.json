@@ -2,6 +2,7 @@
   "name": "angular-social-elements",
   "version": "0.0.4-alpha",
   "homepage": "https://github.com/asgarli/angular-social-elements",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/asgarli/angular-social-elements.git"
