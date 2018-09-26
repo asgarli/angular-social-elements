@@ -1,0 +1,13 @@
+{
+  "name": "angular-social-elements",
+  "version": "0.0.4-alpha",
+  "homepage": "https://github.com/asgarli/angular-social-elements",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asgarli/angular-social-elements.git"
+  },
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  }
+}
